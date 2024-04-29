@@ -1,0 +1,15 @@
+INDEX VERSION 1.134+C:\Users\Lucas Miguel\Documents\GitHub\Java\ws-eclipse\.metadata\.plugins\org.eclipse.jdt.core
+12255004.index
+1797203188.index
+1865797976.index
+3923335721.index
+471340130.index
+2803340133.index
+3967836525.index
+2665376447.index
+3136715562.index
+1892682643.index
+4061558094.index
+2189197761.index
+4174609495.index
+2008928138.index

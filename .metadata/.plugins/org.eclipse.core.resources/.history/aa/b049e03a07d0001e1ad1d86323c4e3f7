@@ -1,0 +1,22 @@
+import java.util.Locale;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		System.out.print("Hello World, ");		//Primeiro Código 
+		System.out.println("Teste");			//println -> quebra de linha
+		
+		int y = 32;
+		double x = 10.35784;					//double = float, porém com precisão dupla, + precisão
+		
+		System.out.println(y);						
+		System.out.println(x);
+		System.out.println(x);
+		System.out.printf("%.2f%n", x);
+		Locale.setDefault(Locale.US);
+		System.out.printf("%.2f%n", x);			//"%.2f%n" é uma formula para delimitar 2 casas decimais, \n quebra de linha
+
+	}
+
+}

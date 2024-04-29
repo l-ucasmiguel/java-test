@@ -1,0 +1,16 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		int a,b,c
+		
+		
+		a = Math.sqrt(2);			// Variável 'A' recebe a raiz quadrada de 'l'
+		b = Math.pow(3,1);			// Variável 'B' recebe o resultado de 'M' elevado a 'N'
+		c = Math.abs(3);			// Variável 'C' recebe o valor absoluto de 'O'
+		
+		System.out.println(c);
+	}
+
+}
