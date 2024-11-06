@@ -8,7 +8,7 @@ import java.util.Scanner;
 //Define a classe pública "Main"
 public class Main {
 
-	// Define o método principal "main" que é o ponto de entrada do programa
+	// Define o método principal "main" que é o ponto de entrada do programaTETE
 	public static void main(String[] args) {
 
 		
